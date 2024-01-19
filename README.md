@@ -1,6 +1,8 @@
 # Convolution-over-Hirarchical-graphs-copy-and-impl
 Copy of papers code with adaptation to german data, code taken from https://github.com/NLPWM-WHU/BiGCN.
+
 Paper:
+
 @inproceedings{DBLP:conf/emnlp/ZhangQ20,
   author    = {Mi Zhang and
                Tieyun Qian},
